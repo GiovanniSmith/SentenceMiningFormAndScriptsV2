@@ -1,0 +1,50 @@
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.exe.config
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.exe
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.pdb
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.AssemblyReference.cache
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.Form1.resources
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.Properties.Resources.resources
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.GenerateResource.cache
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.CoreCompileInputs.cache
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.exe
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\src\main\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.pdb
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.exe.config
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.exe
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.pdb
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.AssemblyReference.cache
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.Form1.resources
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.Properties.Resources.resources
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.GenerateResource.cache
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.CoreCompileInputs.cache
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.exe
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.pdb
+C:\Users\Angela Smith\Documents\Code\Anki audio-sentence card script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.ResetToDefaultConfirmation.resources
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.exe.config
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.exe
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.pdb
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.AssemblyReference.cache
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.Form1.resources
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.Properties.Resources.resources
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.ResetToDefaultConfirmation.resources
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.GenerateResource.cache
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.CoreCompileInputs.cache
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.exe
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.pdb
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.CropMarginCalculatorForShareX.resources
+C:\Users\Angela Smith\Documents\Code\Sentence mining script\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.ResetIsRecording.resources
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.exe.config
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.exe
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\bin\Debug\AnkiAudioSentenceCardScript.pdb
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.Form1.resources
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.Properties.Resources.resources
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.ResetIsRecording.resources
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.ResetToDefaultConfirmation.resources
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.GenerateResource.cache
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.exe
+C:\Users\giova\OneDrive\Documents\GitHub\SentenceMiningFormAndScripts\AnkiAudioSentenceCardScript\AnkiAudioSentenceCardScript\obj\Debug\AnkiAudioSentenceCardScript.pdb
